@@ -18,8 +18,8 @@ I'm a BCA student at CHRIST University, skilled in Mac OS, Windows, Linux, Java,
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arnav2722&show_icons=true" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&" alt="Arnav Sharma" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arnav2722&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&" alt="Arnav Sharma" />
 </div>
 
 [![An image of @arnav2722's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnav2722)](https://holopin.io/@arnav2722)
