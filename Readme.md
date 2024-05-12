@@ -1,13 +1,13 @@
 ## 👨‍💻 About me:
 
 <p align="left">
-I'm a BCA student at CHRIST University, skilled in Windows, Linux, HTML, CSS, and Python. Proficient in Organizational Leadership, Event Planning, and Team Coordination. My broad skill set, academic dedication, and extracurricular involvement prepare me for a software development or IT career. I blend technical expertise with leadership for impactful results.
+I'm a BCA student at CHRIST University, skilled in Windows, Linux, HTML, CSS, JavaScript, Basic PHP, and Python. Proficient in Organizational Leadership, Event Planning, and Team Coordination. My broad skill set, academic dedication, and extracurricular involvement prepare me for a software development or IT career. I blend technical expertise with leadership for impactful results.
 </p>
 
 ## 📱 Contact me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arnav2722/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a><br><a href="https://www.instagram.com/_vxidik_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a> -->
+<a href="https://www.linkedin.com/in/arnav2722/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a><br><a href="https://www.instagram.com/_vxidik_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a> 
 </p>
 
 ## 🛠 Tools and Languages:
