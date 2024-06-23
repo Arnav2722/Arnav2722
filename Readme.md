@@ -1,39 +1,148 @@
-<h1 align="center">Hi 👋, I'm Arnav Sharma</h1>
-<h3 align="center">I'm a BCA student at CHRIST University, skilled in Windows, Linux, HTML, CSS, JavaScript, Basic PHP, and Python. Proficient in Organizational Leadership, Event Planning, and Team Coordination. My broad skill set, academic dedication, and extracurricular involvement prepare me for a software development or IT career. I blend technical expertise with leadership for impactful results</h3>
+<p align="center">
+	<img src="/assets/header.jpg" alt="Banner">
+	<img src="/assets/animation.gif" alt="Banner">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav2722&label=Profile%20views&color=0e75b6&style=flat" alt="arnav2722" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav2722" alt="arnav2722" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vaidik79" target="blank"><img src="https://img.shields.io/twitter/follow/vaidik79?logo=twitter&style=for-the-badge" alt="vaidik79" /></a> </p>
-
-- 🔭 I’m currently working on **A Web development project which is a Full-Stack Professional Website**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 👨‍💻 All of my projects are available at [https://arnavsharma-portfolio.netlify.app/](https://arnavsharma-portfolio.netlify.app/)
-
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **HTML, CSS, Js, PHP, and Python**
-
-- 📫 How to reach me **vaidiksharma79@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vaidik79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaidik79" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/arnav2722/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/arnav2722/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17657358/arnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17657358/arnav" height="30" width="40" /></a>
-<a href="https://medium.com/@vaidik.bhavyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaidik.bhavyansh" height="30" width="40" /></a>
+<a href="https://holopin.io/@arnav2722">
+    <img src="https://holopin.io/api/user/board?user=arnav2722" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://twitter.com/vaidik79">
+  <img align="left" alt="amans's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/Arnav2722/">
+  <img align="left" alt="aman's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/arnav2722">
+  <img src="https://komarev.com/ghpvc/?username=Arnav2722&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</a>
+</p>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav2722&show_icons=true&locale=en&layout=compact" alt="arnav2722" /></p>
+## <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&locale=en" alt="arnav2722" /></p>
+<h4 align="center"><samp>A Graphic Designer, Web developer and a Cyber-Security enthusiast </samp></h4></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav2722&" alt="arnav2722" /></p>
+<div>
+<img align="right" src="/assets/coder.gif" width="40%"/>
+  <br>
+
+<h3><b><samp>Experiences:</samp></b></h3>
+- 🧑🏽 <b>Graphic Designer Intern at Coders Bake (September 2022 - March 2023)</b><br>
+- ☁  <b>UI Designer Intern at Upedd.com (March 2023 - May 2023)</b><br>
+- 🕵🏻 <b>Graphic Designer Head at Ekomart.com (March 2023 - March 2024)</b><br>
+- 💬 <b>Web Development Intern at Zion Computers Pvt. Ltd. (May 2023 - Present)</b><br>
+- 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br>
+</div>
+
+<p align="center">
+  <img src="/assets/snake.svg">             
+  <img src="/assets/line.gif">             
+</p>
+
+## 🛠 &nbsp;Tech Stack:
+
+<p align="center">
+  <img src="/assets/tools.png">             
+</p>
+
+### 💻 &nbsp;Languages:
+
+<!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp; -->
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Php(Basic)](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
+![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
+![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
+
+### 🚀 &nbsp;Technologies:
+
+<!-- ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
+<!-- ![Node.js(Basic)](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
+
+![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; -->
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
+
+![Firebase(Basic)](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+
+<!-- ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp; -->
+<!-- ![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat)&nbsp; -->
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+
+<!-- ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp; -->
+
+<p  align="center">
+<img src="/assets/line.gif">             
+</p>
+
+# 📈 Statistics 📈
+
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2722&theme=algolia&layout=compact"/>
+</p>
+<!-- 
+<p align="center">
+<a href="https://leetcode.com/Arnav2722">
+<img width="40%" src="https://leetcode.card.workers.dev/Arnav2722?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+</a> -->
+</p>
+
+<p align="center">
+  <a href="https://github.com/Arnav2722">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnav2722&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Arnav2722&theme=react-dark" />
+</a>
+</p>
+	
+<p  align="center">
+<img src="/assets/line.gif">             
+</p>
+
+<!-- TODO: Update Repos -->
+
+## 📕 Pinned Repositories
+
+<div align="center">
+<a href="https://github.com/Arnav2722/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav2722&repo=keylogger&show_icons=true&theme=tokyonight" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/Arnav2722/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav2722&repo=CyberSecurity-Tools&show_icons=true&theme=tokyonight" />
+</a><br/>
+<a href="https://github.com/Arnav2722/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav2722&repo=phishing&show_icons=true&theme=tokyonight" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Arnav2722/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav2722&repo=All-In-One-Python-Projects&show_icons=true&theme=tokyonight" />
+</a><br/>
+</div>
+
+<p  align="center">
+<img src="/assets/line.gif">
+</p>
+
+## 🏆 GitHub Trophy:
+
+<p align="center">
+<a href="https://github.com/Arnav2722/">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Arnav2722&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+
+![Arnav Sharma](/assets/footer.svg)
