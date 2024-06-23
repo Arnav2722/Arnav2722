@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="/assets/header.jpg" alt="Banner">
+	<img src="/assets/Arnav Sharma.png" alt="Banner">
 	<img src="/assets/animation.gif" alt="Banner">
 
 <a href="https://holopin.io/@arnav2722">
