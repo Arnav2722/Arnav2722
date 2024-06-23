@@ -90,11 +90,11 @@
 
 # 📈 Statistics 📈
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2722&theme=algolia&layout=compact"/>
-</p>
-<!-- 
+</p> -->
+<!--
 <p align="center">
 <a href="https://leetcode.com/Arnav2722">
 <img width="40%" src="https://leetcode.card.workers.dev/Arnav2722?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
@@ -115,7 +115,7 @@
 </p>
 
 <!-- TODO: Update Repos -->
-
+<!--
 ## 📕 Pinned Repositories
 
 <div align="center">
@@ -135,7 +135,7 @@
 
 <p  align="center">
 <img src="/assets/line.gif">
-</p>
+</p> -->
 
 ## 🏆 GitHub Trophy:
 
