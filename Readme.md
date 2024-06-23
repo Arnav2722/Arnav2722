@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/vaidik79">
-  <img align="left" alt="amans's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
+<!-- <a href="https://x.com/vaidik79">
+  <img align="left" alt="" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a> -->
 <a href="https://www.linkedin.com/in/Arnav2722/">
-  <img align="left" alt="aman's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="Arnav's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/arnav2722">
   <img src="https://komarev.com/ghpvc/?username=Arnav2722&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
