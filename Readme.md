@@ -32,7 +32,7 @@
 - 🧑🏽 <b>Graphic Designer Intern at Coders Bake (September 2022 - March 2023)</b><br>
 - ☁  <b>UI Designer Intern at Upedd.com (March 2023 - May 2023)</b><br>
 - 🕵🏻 <b>Graphic Designer Head at Ekomart.com (March 2023 - March 2024)</b><br>
-- 💬 <b>Web Development Intern at Zion Computers Pvt. Ltd. (May 2023 - Present)</b><br>
+- 💬 <b>Web Development Intern at Zion Computers Pvt. Ltd. (May 2023 - July 2024)</b><br>
 - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br>
 </div>
 
