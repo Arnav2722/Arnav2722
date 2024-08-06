@@ -22,7 +22,7 @@
 
 ## <p align="center">
 
-<h4 align="center"><samp>A Graphic Designer, Web developer and a Cyber-Security enthusiast </samp></h4></p>
+<h2 align="center"><samp>A Web developer and a Cyber-Security enthusiast </samp></h2></p>
 
 <div>
 <img align="right" src="/assets/coder.gif" width="40%"/>
