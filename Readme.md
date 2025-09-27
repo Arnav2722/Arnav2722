@@ -70,22 +70,26 @@
 
 # 📈 Statistics 📈
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2722&theme=algolia&layout=compact"/>
-</p> -->
-<!--
+</p>
+
 <p align="center">
 <a href="https://leetcode.com/Arnav2722">
 <img width="40%" src="https://leetcode.card.workers.dev/Arnav2722?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
-</a> -->
+</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Arnav2722">
+  <br>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnav2722&theme=github_dark" />
+    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&theme=github-dark-blue&hide_border=true" />
+    <br>
     <img src="https://activity-graph.herokuapp.com/graph?username=Arnav2722&theme=react-dark" />
 </a>
 </p>
