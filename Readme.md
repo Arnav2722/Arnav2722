@@ -50,7 +50,7 @@
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
 
-![React.js](https://img.shields.io/badge/-react-black-05122A?style=flat&logo=react)&nbsp;
+![React.js]&nbsp;
 
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp; -->
 
