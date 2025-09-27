@@ -92,8 +92,7 @@
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&theme=github-dark-blue&hide_border=true" />
     <br>
-    <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Arnav2722&theme=react-dark" />
+    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Arnav2722&theme=react-dark" /> -->
 </a>
 </p>
 	
