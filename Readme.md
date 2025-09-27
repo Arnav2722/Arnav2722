@@ -71,7 +71,7 @@
 # 📈 Statistics 📈
 
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2722&theme=algolia&layout=compact"/>
 </p>
 
@@ -85,6 +85,8 @@
   <a href="https://github.com/Arnav2722">
   <br>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnav2722&theme=github_dark" />
+    <br>
+    <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
     <br>
