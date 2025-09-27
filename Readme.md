@@ -1,6 +1,6 @@
 <p align="center">
 	<img src="/assets/Arnav Sharma.png" alt="Banner">
-	<img src="/assets/animation.gif" alt="Banner">
+	<!-- <img src="/assets/animation.gif" alt="Banner"> -->
 
 <a href="https://holopin.io/@arnav2722">
     <img src="https://holopin.io/api/user/board?user=arnav2722" />
@@ -30,8 +30,8 @@
 
 <h3><b><samp>Experiences:</samp></b></h3>
 - 🕵🏻 <b>Web Development Intern at Zion Computers Pvt. Ltd. (May 2023 - July 2024)</b><br>
-- 💬 <b>Machine Learning Intern at DBlockchainers Pvt. Ltd. (January 2025 - Present)</b><br>
-- 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br>
+- 💬 <b>Machine Learning Intern at DBlockchainers Pvt. Ltd. (January 2025 - July 2025)</b><br>
+<!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
 </div>
 
 <p align="center">
@@ -50,7 +50,7 @@
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![React.js](https://img.shields.io/badge/-react-black-05122A?style=flat&logo=react)&nbsp;
 
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp; -->
 
