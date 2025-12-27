@@ -28,6 +28,13 @@
 <img align="right" src="/assets/coder.gif" width="40%"/>
   <br>
 
+<h3><b><samp>About Me</samp></b></h3>
+<b>Hi, I’m Arnav 👋  <br>
+Python-focused software developer with experience building automation scripts, data-driven tools, and full-stack web applications.
+Interested in Python backend development, internal tools, and automation.
+</b><br>
+</div>
+
 <h3><b><samp>Experiences:</samp></b></h3>
 - 🕵🏻 <b>Web Development Intern at Zion Computers Pvt. Ltd. (May 2023 - July 2024)</b><br>
 - 💬 <b>Machine Learning Intern at DBlockchainers Pvt. Ltd. (January 2025 - July 2025)</b><br>
