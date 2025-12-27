@@ -123,4 +123,4 @@ Interested in Python backend development, internal tools, and automation.
 </a>
 </p> -->
 
-![Arnav Sharma](/assets/footer.svg)
+<!-- ![Arnav Sharma](/assets/footer.svg) -->
