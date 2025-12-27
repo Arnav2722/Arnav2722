@@ -74,21 +74,10 @@ Interested in Python backend development, internal tools, and automation.
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux Basic](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Linux Basic](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-
-
-### 🚀 &nbsp;Technologies:
-
-<!-- ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
-<!-- ![Node.js(Basic)](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-
-
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; -->
-
-
-
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp; -->
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 
 <p  align="center">
 <img src="/assets/line.gif">             
