@@ -115,35 +115,12 @@ Interested in Python backend development, internal tools, and automation.
 <img src="/assets/line.gif">             
 </p>
 
-<!-- TODO: Update Repos -->
-<!--
-## 📕 Pinned Repositories
-
-<div align="center">
-<a href="https://github.com/Arnav2722/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav2722&repo=keylogger&show_icons=true&theme=tokyonight" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/Arnav2722/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav2722&repo=CyberSecurity-Tools&show_icons=true&theme=tokyonight" />
-</a><br/>
-<a href="https://github.com/Arnav2722/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav2722&repo=phishing&show_icons=true&theme=tokyonight" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Arnav2722/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arnav2722&repo=All-In-One-Python-Projects&show_icons=true&theme=tokyonight" />
-</a><br/>
-</div>
-
-<p  align="center">
-<img src="/assets/line.gif">
-</p> -->
-
-## 🏆 GitHub Trophy:
+<!-- ## 🏆 GitHub Trophy:
 
 <p align="center">
 <a href="https://github.com/Arnav2722/">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Arnav2722&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
-</p>
+</p> -->
 
 ![Arnav Sharma](/assets/footer.svg)
