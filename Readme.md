@@ -2,9 +2,9 @@
 	<img src="/assets/Arnav Sharma.png" alt="Banner">
 	<!-- <img src="/assets/animation.gif" alt="Banner"> -->
 
-<a href="https://holopin.io/@arnav2722">
+<!-- <a href="https://holopin.io/@arnav2722">
     <img src="https://holopin.io/api/user/board?user=arnav2722" />
-</a>
+</a> -->
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## <p align="center">
 
-<h2 align="center"><samp>Aspiring Full Stack Web Developer</samp></h2></p>
+<h2 align="center"><samp>Python Software Developer | Automation, Data Analysis & Web Tools</samp></h2></p>
 
 <div>
 <img align="right" src="/assets/coder.gif" width="40%"/>
