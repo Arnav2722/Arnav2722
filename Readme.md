@@ -74,6 +74,7 @@ Interested in Python backend development, internal tools, and automation.
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux Basic](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Linux Basic](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
 
 ### 🚀 &nbsp;Technologies:
