@@ -46,9 +46,6 @@ Interested in Python backend development, internal tools, and automation.
 <!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
 </div>
 
-
-
-
 <h3><b><samp>Experiences:</samp></b></h3>
 - <b>Software Developer Intern (Python) – ML Projects at DBlockchainers Pvt. Ltd. (January 2025 - July 2025)</b><br>
 - <b>Web Development Intern at Zion Computers Pvt. Ltd. (May 2023 - July 2024)</b><br>
@@ -70,22 +67,25 @@ Interested in Python backend development, internal tools, and automation.
 ### 💻 &nbsp;Languages:
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
 ![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
 ![HTML](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
 
 ### 🚀 &nbsp;Technologies:
 
-![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js(Basic)](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+<!-- ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
+<!-- ![Node.js(Basic)](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
+
 ![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; -->
+
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Linux Basic](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp; -->
 
 <p  align="center">
 <img src="/assets/line.gif">             
