@@ -35,11 +35,24 @@ Interested in Python backend development, internal tools, and automation.
 </b><br>
 </div>
 
-<h3><b><samp>Experiences:</samp></b></h3>
-- 🕵🏻 <b>Web Development Intern at Zion Computers Pvt. Ltd. (May 2023 - July 2024)</b><br>
-- 💬 <b>Machine Learning Intern at DBlockchainers Pvt. Ltd. (January 2025 - July 2025)</b><br>
+<h3><b><samp>Full-stack Python Flask application for multi-disease risk assessment using structured data and image inputs.</samp></b></h3>
+- <b>Backend built with Flask, NumPy, and serialized models</b><br>
+- <b>Automated data preprocessing and prediction workflows</b><br>
+- <b>Responsive frontend using HTML and CSS</b><br>
+- <b>Runner-up, Science Model Category – Science Exhibition 2024 (CHRIST University)</b><br>
+<!-- - 🔗 GitHub Repo: <link> -->
 <!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
 </div>
+
+
+
+
+<h3><b><samp>Experiences:</samp></b></h3>
+- <b>Software Developer Intern (Python) – ML Projects at DBlockchainers Pvt. Ltd. (January 2025 - July 2025)</b><br>
+- <b>Web Development Intern at Zion Computers Pvt. Ltd. (May 2023 - July 2024)</b><br>
+<!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
+</div>
+<br>
 
 <p align="center">
   <img src="/assets/snake.svg">             
@@ -55,8 +68,9 @@ Interested in Python backend development, internal tools, and automation.
 ### 💻 &nbsp;Languages:
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
 ![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
+![HTML](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
 
 ### 🚀 &nbsp;Technologies:
