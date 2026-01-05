@@ -86,7 +86,7 @@ Interested in Python backend development, internal tools, and automation.
 # 📈 Statistics 📈
 
 <p align="center">
-<!-- <img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
+<img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2722&theme=algolia&layout=compact"/>
 </p>
 
@@ -107,7 +107,7 @@ Interested in Python backend development, internal tools, and automation.
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&theme=github-dark-blue&hide_border=true" />
     <br>
-    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Arnav2722&theme=react-dark" /> -->
+    <img src="https://activity-graph.herokuapp.com/graph?username=Arnav2722&theme=react-dark" />
 </a>
 </p>
 	
@@ -115,12 +115,12 @@ Interested in Python backend development, internal tools, and automation.
 <img src="/assets/line.gif">             
 </p>
 
-<!-- ## 🏆 GitHub Trophy:
+🏆 GitHub Trophy:
 
 <p align="center">
 <a href="https://github.com/Arnav2722/">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Arnav2722&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
-</p> -->
+</p>
 
 <!-- ![Arnav Sharma](/assets/footer.svg) -->
