@@ -86,8 +86,8 @@ Interested in Python backend development, internal tools, and automation.
 # 📈 Statistics 📈
 
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2722&theme=algolia&layout=compact"/>
+<!-- <img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2722&theme=algolia&layout=compact"/> -->
 </p>
 
 <p align="center">
