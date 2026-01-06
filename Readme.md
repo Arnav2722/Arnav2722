@@ -114,11 +114,7 @@ Interested in Python backend development, internal tools, and automation.
 <img src="/assets/line.gif">             
 </p> -->
 
-<<<<<<< HEAD
 <!-- 🏆 GitHub Trophy:
-=======
-🏆 GitHub Trophy:
->>>>>>> b3b249b44b1b7f52e23ec8d5de5733b29fa1db38
 
 <p align="center">
 <a href="https://github.com/Arnav2722/">
@@ -126,8 +122,4 @@ Interested in Python backend development, internal tools, and automation.
 </a>
 <<<<<<< HEAD
 </p>  -->
-=======
-</p>
->>>>>>> b3b249b44b1b7f52e23ec8d5de5733b29fa1db38
-
 <!-- ![Arnav Sharma](/assets/footer.svg) -->
