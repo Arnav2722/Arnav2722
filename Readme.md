@@ -37,7 +37,7 @@ Interested in Python backend development, internal tools, and automation.
 
 <h3><b><samp>Featured Projects</samp></b></h3>
 <div>
-  <h4><b>Full-stack Python Flask application for multi-disease risk assessment using structured data and image inputs.</b></h4>
+  <h4><b>Python Flask application for multi-disease risk assessment using structured data and image inputs.</b></h4>
 - <b>Backend built with Flask, NumPy, and serialized models</b><br>
 - <b>Automated data preprocessing and prediction workflows</b><br>
 - <b>Responsive frontend using HTML and CSS</b><br>
