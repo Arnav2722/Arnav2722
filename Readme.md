@@ -97,7 +97,8 @@ Interested in Python backend development, internal tools, and automation.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arnav2722">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&theme=github-dark-blue&hide_border=true">
+  <!-- <a href="https://github.com/Arnav2722"> -->
   <br>
     <br>
     <br>
