@@ -100,16 +100,16 @@ Interested in Python backend development, internal tools, and automation.
   <a href="https://github.com/Arnav2722">
   <br>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnav2722&theme=github_dark" />
-    <!-- <br>
+    <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
     <br>
-    <br>-->
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&theme=github-dark-blue&hide_border=true" />
-    <!-- <br>
+    <br>
     <img src="https://activity-graph.herokuapp.com/graph?username=Arnav2722&theme=react-dark" />
 </a>
-</p> -->
+</p>
 <!-- <p  align="center">
 <img src="/assets/line.gif">             
 </p> -->
