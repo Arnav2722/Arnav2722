@@ -92,7 +92,11 @@ Interested in Python backend development, internal tools, and automation.
 
 <p align="center">
 <a href="https://leetcode.com/Arnav2722">
-<img width="40%" src="https://leetcode.card.workers.dev/Arnav2722?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+<!-- <img width="40%" src="https://leetcode.card.workers.dev/Arnav2722?theme=dark&font=baloo&extension=null&border=2&border_radius=8"> -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=arnav2722&theme=github-dark-blue&hide_border=true" />
+
 </a>
 </p>
 
@@ -105,7 +109,7 @@ Interested in Python backend development, internal tools, and automation.
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Arnav2722&show_icons=true&theme=github_dark&hide_border=true" /> -->
     <!-- <br> -->
     <!-- <br> -->
-    <img width="40%" src="https://streak-stats.demolab.com/?user=arnav2722&theme=github-dark-blue&hide_border=true" />
+    <!-- <img width="40%" src="https://streak-stats.demolab.com/?user=arnav2722&theme=github-dark-blue&hide_border=true" /> -->
     <!-- <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&theme=github-dark-blue&hide_border=true" /> -->
     <!-- <br> -->
     <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Arnav2722&theme=react-dark" /> -->
