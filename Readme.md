@@ -1,126 +1,101 @@
 <p align="center">
-	<img src="/assets/Arnav Sharma.png" alt="Banner">
-	<!-- <img src="/assets/animation.gif" alt="Banner"> -->
-
-<!-- <a href="https://holopin.io/@arnav2722">
-    <img src="https://holopin.io/api/user/board?user=arnav2722" />
-</a> -->
+  <img src="/assets/Arnav Sharma.png" alt="Banner" />
 </p>
 
 <p align="center">
-<!-- <a href="https://x.com/vaidik79">
-  <img align="left" alt="" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a> -->
-<a href="https://www.linkedin.com/in/Arnav2722/">
-  <img align="left" alt="Arnav's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/arnav2722">
-  <img src="https://komarev.com/ghpvc/?username=Arnav2722&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-</a>
+  <a href="https://www.linkedin.com/in/arnav2722/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/arnav2722">
+    <img src="https://komarev.com/ghpvc/?username=arnav2722&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+  </a>
 </p>
-<br><br>
 
-## <p align="center">
+---
 
-<h2 align="center"><samp>Python Software Developer | Automation, Data Analysis & Web Tools</samp></h2></p>
+## Python Software Developer | Automation, Data Analysis & Web Tools
 
-<div>
 <img align="right" src="/assets/coder.gif" width="40%"/>
-  <br>
 
-<h3><b><samp>About Me</samp></b></h3>
-<b>Hi, I’m Arnav 👋  <br>
+### About Me
+
+Hi, I’m Arnav 👋  
 Python-focused software developer with experience building automation scripts, data-driven tools, and full-stack web applications.
-Interested in Python backend development, internal tools, and automation.
-</b><br>
-</div>
 
-<h3><b><samp>Featured Projects</samp></b></h3>
-<div>
-  <h4><b>Python Flask application for multi-disease risk assessment using structured data and image inputs.</b></h4>
-- <b>Backend built with Flask, NumPy, and serialized models</b><br>
-- <b>Automated data preprocessing and prediction workflows</b><br>
-- <b>Responsive frontend using HTML and CSS</b><br>
-- <b>Runner-up, Science Model Category – Science Exhibition 2024 (CHRIST University)</b><br>
-<!-- - 🔗 GitHub Repo: <link> -->
-<!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
-</div>
+I work mainly with:
+- Python backend development  
+- Automation & internal tools  
+- Data analysis & visualization  
+- Web-based dashboards  
 
-<h3><b><samp>Experiences:</samp></b></h3>
-- <b>Software Developer Intern (Python) – ML Projects at DBlockchainers Pvt. Ltd. (January 2025 - July 2025)</b><br>
-- <b>Web Development Intern at Zion Computers Pvt. Ltd. (May 2023 - July 2024)</b><br>
-<!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
-</div>
-<br>
+---
 
-<p align="center">
-  <img src="/assets/snake.svg">             
-  <img src="/assets/line.gif">             
-</p>
+## Featured Project
 
-## 🛠 &nbsp;Tech Stack:
+### Multi-Disease Risk Assessment System (Flask + ML)
 
-<p align="center">
-  <img src="/assets/tools.png">             
-</p>
+A Python Flask application for multi-disease risk assessment using structured data and image inputs.
 
-### 💻 &nbsp;Languages and Technologies:
+**Highlights**
+- Flask backend with NumPy and serialized ML models  
+- Automated data preprocessing and prediction pipelines  
+- Responsive frontend using HTML & CSS  
+- Runner-up — Science Model Category, Science Exhibition 2024 (CHRIST University)
 
-![PythonL](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
-![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
-![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Linux Basic](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
+---
 
-<p  align="center">
-<img src="/assets/line.gif">             
-</p>
+## Experience
 
-# 📈 Statistics 📈
+- **Software Developer Intern (Python – ML Projects)**  
+  DBlockchainers Pvt. Ltd. (Jan 2025 – Jul 2025)
+
+- **Web Development Intern**  
+  Zion Computers Pvt. Ltd. (May 2023 – Jul 2024)
+
+---
+
+## Tech Stack
 
 <p align="center">
-<!-- <img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2722&theme=algolia&layout=compact"/> -->
+  <img src="/assets/tools.png" />
 </p>
 
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
+
+---
+
+## Coding Profiles
+
 <p align="center">
-<a href="https://leetcode.com/Arnav2722">
-<img width="40%" src="https://leetcode.card.workers.dev/Arnav2722?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
-</a>
+  <a href="https://leetcode.com/arnav2722">
+    <img width="40%" src="https://leetcode.card.workers.dev/arnav2722?theme=dark&font=baloo&border=2&border_radius=8">
+  </a>
 </p>
 
+---
+
+## GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/Arnav2722">
-  <br>
-    <!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnav2722&theme=github_dark" /> -->
-    <!-- <br> -->
-    <!-- <br> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Arnav2722&show_icons=true&theme=github_dark&hide_border=true" /> -->
-    <!-- <br> -->
-    <!-- <br> -->
-    <img width="40%" src="https://streak-stats.demolab.com/?user=arnav2722&theme=github-dark-blue&hide_border=true" />
-    <!-- <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav2722&theme=github-dark-blue&hide_border=true" /> -->
-    <!-- <br> -->
-    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Arnav2722&theme=react-dark" /> -->
-</a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="40%" src="https://streak-stats.demolab.com?user=arnav2722&theme=github-dark-blue&hide_border=true" />
 </p>
-<!-- <p  align="center">
-<img src="/assets/line.gif">             
-</p> -->
 
-<!-- 🏆 GitHub Trophy:
+---
 
 <p align="center">
-<a href="https://github.com/Arnav2722/">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Arnav2722&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-<<<<<<< HEAD
-</p>  -->
-<!-- ![Arnav Sharma](/assets/footer.svg) -->
+  <img src="/assets/snake.svg" />
+</p>
