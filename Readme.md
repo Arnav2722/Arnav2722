@@ -100,7 +100,7 @@ A Python Flask application for multi-disease risk assessment using structured da
 
 
 ---
-
+<!-- 
 <p align="center">
   <img src="/assets/snake.svg" />
-</p>
+</p> -->
