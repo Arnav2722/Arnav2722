@@ -89,10 +89,15 @@ A Python Flask application for multi-disease risk assessment using structured da
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
   <img width="40%" src="https://streak-stats.demolab.com?user=arnav2722&theme=github-dark-blue&hide_border=true" />
+</p> -->
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img width="40%" src="https://streak-stats.demolab.com?user=arnav2722&theme=github-dark-blue&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 ---
 
