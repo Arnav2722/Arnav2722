@@ -1,73 +1,69 @@
-<p align="center">
-  <img src="/assets/Arnav Sharma.png" alt="Banner">
+<!-- <p align="center">
+  <img src="/assets/Arnav Sharma.png" alt="Banner" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arnav2722/">
-    <img width="110px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/arnav2722">
-    <img src="https://komarev.com/ghpvc/?username=arnav2722&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=arnav2722&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">
-  <samp>Python Software Developer | Automation • Data Analysis • Web Tools</samp>
-</h2>
+## Python Software Developer | Automation, Data Analysis & Web Tools
 
-<img align="right" src="/assets/coder.gif" width="38%"/>
+<img align="right" src="/assets/coder.gif" width="40%"/>
 
-### 👋 About Me
+### About Me
 
-**Python-focused software developer** experienced in building automation scripts, data-driven tools, and full-stack web applications.
+Hi, I’m Arnav 👋  
+Python-focused software developer with experience building automation scripts, data-driven tools, and full-stack web applications.
 
-Strong interest in:
+I work mainly with:
 - Python backend development  
-- Internal tools & automation  
-- Data processing and analytics  
+- Automation & internal tools  
+- Data analysis & visualization  
+- Web-based dashboards  
 
 ---
 
-### 🚀 Featured Project
+## Featured Project
 
-#### 🩺 Multi-Disease Risk Assessment System (Flask)
+### Multi-Disease Risk Assessment System (Flask + ML)
 
-- Flask backend with NumPy & serialized ML models  
-- Automated preprocessing and prediction pipeline  
-- Image + structured data inputs  
-- Responsive frontend (HTML, CSS)  
-- **Runner-up – Science Model Category, Science Exhibition 2024 (CHRIST University)**  
+A Python Flask application for multi-disease risk assessment using structured data and image inputs.
+
+**Highlights**
+- Flask backend with NumPy and serialized ML models  
+- Automated data preprocessing and prediction pipelines  
+- Responsive frontend using HTML & CSS  
+- Runner-up — Science Model Category, Science Exhibition 2024 (CHRIST University)
 
 ---
 
-### 💼 Experience
+## Experience
 
 - **Software Developer Intern (Python – ML Projects)**  
-  *DBlockchainers Pvt. Ltd.* — Jan 2025 to Jul 2025  
+  DBlockchainers Pvt. Ltd. (Jan 2025 – Jul 2025)
 
 - **Web Development Intern**  
-  *Zion Computers Pvt. Ltd.* — May 2023 to Jul 2024  
+  Zion Computers Pvt. Ltd. (May 2023 – Jul 2024)
 
 ---
 
-<p align="center">
-  <img src="/assets/snake.svg">
-</p>
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="/assets/tools.png">
+  <img src="/assets/tools.png" />
 </p>
 
-### 💻 Languages & Technologies
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
@@ -81,21 +77,25 @@ Strong interest in:
 
 ---
 
-## 📊 Statistics
+## Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/arnav2722">
-    <img width="42%" src="https://leetcode.card.workers.dev/arnav2722?theme=dark&font=baloo&border=2&border_radius=8">
+    <img width="40%" src="https://leetcode.card.workers.dev/arnav2722?theme=dark&font=baloo&border=2&border_radius=8">
   </a>
 </p>
 
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="42%" src="https://streak-stats.demolab.com?user=arnav2722&theme=github-dark-blue&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="40%" src="https://streak-stats.demolab.com?user=arnav2722&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="/assets/line.gif">
-</p>
+  <img src="/assets/snake.svg" />
+</p> -->
