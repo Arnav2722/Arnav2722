@@ -56,9 +56,9 @@ A Python Flask application for multi-disease risk assessment using structured da
 
 ## Tech Stack
 
-<p align="center">
+<!-- <p align="center">
   <img src="/assets/tools.png" />
-</p>
+</p> -->
 
 ### Languages & Tools
 
@@ -99,7 +99,7 @@ A Python Flask application for multi-disease risk assessment using structured da
 
 
 
----
+<!-- --- -->
 <!-- 
 <p align="center">
   <img src="/assets/snake.svg" />
