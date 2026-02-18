@@ -23,24 +23,35 @@ Hi, I’m Arnav 👋
 Python-focused software developer with experience building automation scripts, data-driven tools, and full-stack web applications.
 
 I work mainly with:
-- Python backend development  
-- Automation & internal tools  
-- Data analysis & visualization  
-- Web-based dashboards  
+
+- Python backend development
+- Automation & internal tools
+- Data analysis & visualization
+- Web-based dashboards
 
 ---
 
 ## Featured Project
 
-### Multi-Disease Risk Assessment System (Flask + ML)
+<!-- ### Multi-Disease Risk Assessment System (Flask + ML)
 
 A Python Flask application for multi-disease risk assessment using structured data and image inputs.
 
 **Highlights**
-- Flask backend with NumPy and serialized ML models  
-- Automated data preprocessing and prediction pipelines  
-- Responsive frontend using HTML & CSS  
-- Runner-up — Science Model Category, Science Exhibition 2024 (CHRIST University)
+- Flask backend with NumPy and serialized ML models
+- Automated data preprocessing and prediction pipelines
+- Responsive frontend using HTML & CSS
+- Runner-up — Science Model Category, Science Exhibition 2024 (CHRIST University) -->
+
+### Diagnosphere | Healthcare Predictive Platform
+
+Stack: Python (Flask), Scikit-learn, TensorFlow/Keras, TypeScript, Tailwind CSS
+
+Hybrid Model Architecture: Developed a diagnostic engine for 7+ conditions using SVM, Random Forest, and CNNs for medical imaging analysis.
+
+Modernized Frontend: Migrated legacy HTML/CSS to a type-safe TypeScript and Tailwind CSS architecture for enhanced UI performance and maintainability.
+
+Data Engineering: Built automated pipelines with NumPy, Pandas, and SMOTE to optimize imbalanced datasets, achieving accuracy rates up to 100%.
 
 ---
 
@@ -49,8 +60,8 @@ A Python Flask application for multi-disease risk assessment using structured da
 - **Software Developer Intern (Python – ML Projects)**  
   DBlockchainers Pvt. Ltd. (Jan 2025 – Jul 2025)
 
-- **Web Development Intern**  
-  Zion Computers Pvt. Ltd. (May 2023 – Jul 2024)
+<!-- - **Web Development Intern**
+  Zion Computers Pvt. Ltd. (May 2023 – Jul 2024) -->
 
 ---
 
@@ -94,22 +105,15 @@ A Python Flask application for multi-disease risk assessment using structured da
   <img width="40%" src="https://streak-stats.demolab.com?user=arnav2722&theme=github-dark-blue&hide_border=true" />
 </p> -->
 
-
-
-
 <!-- --- -->
-<!-- 
+<!--
 <p align="center">
   <img src="/assets/snake.svg" />
 </p> -->
 
-
-
 <!-- THIS WOULD BE MY NEW README.MD BUT FOR NOW I AM NOT CHANGING ANYTHING--->
 
-
-
-<!-- 
+<!--
 <p align="center">
   <img src="/assets/Arnav Sharma.png" alt="Banner" />
 </p>
@@ -130,10 +134,10 @@ A Python Flask application for multi-disease risk assessment using structured da
 Python-focused software developer with hands-on experience building automation systems, data-driven tools, and full-stack web applications.
 
 Strong interest in:
-- Backend engineering  
-- Internal tooling & automation  
-- Data analysis and visualization  
-- Scalable Python systems  
+- Backend engineering
+- Internal tooling & automation
+- Data analysis and visualization
+- Scalable Python systems
 
 I care about writing clean, maintainable code that actually solves problems.
 
@@ -146,30 +150,30 @@ I care about writing clean, maintainable code that actually solves problems.
 A web-based medical risk prediction platform using structured health data and image inputs.
 
 **What I built**
-- Flask backend with NumPy and serialized ML models  
-- Automated preprocessing & prediction pipeline  
-- HTML/CSS frontend for non-technical users  
-- Model deployment & API integration  
+- Flask backend with NumPy and serialized ML models
+- Automated preprocessing & prediction pipeline
+- HTML/CSS frontend for non-technical users
+- Model deployment & API integration
 
 **Achievement**
-- 🏆 Runner-up — Science Model Category  
+- 🏆 Runner-up — Science Model Category
   Science Exhibition 2024, CHRIST University
 
 ---
 
 ## 💼 Experience
 
-### Software Developer Intern — Python (ML Projects)  
-**DBlockchainers Pvt. Ltd.** | Jan 2025 – Jul 2025  
-- Built ML pipelines and automation scripts  
-- Worked on production-grade Python systems  
-- Implemented data preprocessing & model integration  
+### Software Developer Intern — Python (ML Projects)
+**DBlockchainers Pvt. Ltd.** | Jan 2025 – Jul 2025
+- Built ML pipelines and automation scripts
+- Worked on production-grade Python systems
+- Implemented data preprocessing & model integration
 
-### Web Development Intern  
-**Zion Computers Pvt. Ltd.** | May 2023 – Jul 2024  
-- Developed responsive websites  
-- Built backend integrations  
-- Worked on deployment and maintenance  
+### Web Development Intern
+**Zion Computers Pvt. Ltd.** | May 2023 – Jul 2024
+- Developed responsive websites
+- Built backend integrations
+- Worked on deployment and maintenance
 
 ---
 
@@ -191,18 +195,18 @@ A web-based medical risk prediction platform using structured health data and im
 - Linux
 
 ### Domains
-- Backend Development  
-- Automation  
-- Data Analysis  
-- Machine Learning Integration  
+- Backend Development
+- Automation
+- Data Analysis
+- Machine Learning Integration
 
 ---
 
 ## 📚 Problem Solving
 
-- Active on LeetCode  
-- Focused on Data Structures & Algorithms  
-- Strong fundamentals in Python and C++  
+- Active on LeetCode
+- Focused on Data Structures & Algorithms
+- Strong fundamentals in Python and C++
 
 Profile: https://leetcode.com/arnav2722
 
@@ -210,21 +214,20 @@ Profile: https://leetcode.com/arnav2722
 
 ## 🎯 What I'm Looking For
 
-- Python Developer roles  
-- Backend Engineering roles  
-- Automation / Internal Tools roles  
-- Data Engineering / Analytics roles  
+- Python Developer roles
+- Backend Engineering roles
+- Automation / Internal Tools roles
+- Data Engineering / Analytics roles
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/arnav2722  
-- GitHub: https://github.com/arnav2722  
+- LinkedIn: https://www.linkedin.com/in/arnav2722
+- GitHub: https://github.com/arnav2722
 
 ---
 
 <p align="center">
   <img src="/assets/snake.svg" />
 </p> -->
-
