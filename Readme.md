@@ -115,7 +115,7 @@ A Python Flask application for multi-disease risk assessment using structured da
 
 <!-- TODO: Update Repos -->
 
-## 📕 Pinned Repositories
+<!-- ## 📕 Pinned Repositories
 
 <div align="center">
 <a href="https://github.com/aryan4505/">
@@ -134,7 +134,7 @@ A Python Flask application for multi-disease risk assessment using structured da
 
 <p  align="center">
 <img src="/assets/line.gif">
-</p>
+</p> -->
 
 ## 🏆 GitHub Trophy:
 
