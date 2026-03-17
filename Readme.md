@@ -45,13 +45,13 @@ A Python Flask application for multi-disease risk assessment using structured da
 
 ### Diagnosphere | Healthcare Predictive Platform
 
-Stack: Python (Flask), Scikit-learn, TensorFlow/Keras, TypeScript, Tailwind CSS
+- Stack: Python (Flask), Scikit-learn, TensorFlow/Keras, TypeScript, Tailwind CSS
 
-Hybrid Model Architecture: Developed a diagnostic engine for 7+ conditions using SVM, Random Forest, and CNNs for medical imaging analysis.
+- Hybrid Model Architecture: Developed a diagnostic engine for 7+ conditions using SVM, Random Forest, and CNNs for medical imaging analysis.
 
-Modernized Frontend: Migrated legacy HTML/CSS to a type-safe TypeScript and Tailwind CSS architecture for enhanced UI performance and maintainability.
+- Modernized Frontend: Migrated legacy HTML/CSS to a type-safe TypeScript and Tailwind CSS architecture for enhanced UI performance and maintainability.
 
-Data Engineering: Built automated pipelines with NumPy, Pandas, and SMOTE to optimize imbalanced datasets, achieving accuracy rates up to 100%.
+- Data Engineering: Built automated pipelines with NumPy, Pandas, and SMOTE to optimize imbalanced datasets, achieving accuracy rates up to 100%.
 
 ---
 
@@ -96,138 +96,61 @@ Data Engineering: Built automated pipelines with NumPy, Pandas, and SMOTE to opt
   </a>
 </p>
 
-<!-- --- -->
 
-<!-- ## GitHub Stats
+# 📈 Statistics 📈
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="40%" src="https://streak-stats.demolab.com?user=arnav2722&theme=github-dark-blue&hide_border=true" />
-</p> -->
-
-<!-- --- -->
-<!--
+	<img src="/assets/statistics.png" alt="Banner"></p>
 <p align="center">
-  <img src="/assets/snake.svg" />
-</p> -->
-
-<!-- THIS WOULD BE MY NEW README.MD BUT FOR NOW I AM NOT CHANGING ANYTHING--->
-
-<!--
+<img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan4505&theme=algolia&layout=compact"/>
+</p> 
 <p align="center">
-  <img src="/assets/Arnav Sharma.png" alt="Banner" />
+<a href="https://leetcode.com/aryan4505">
+<img width="40%" src="https://leetcode.card.workers.dev/aryan4505?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+</a>
 </p>
 
-<h1 align="center">Arnav Sharma</h1>
-<h3 align="center">Python Software Developer | Automation • Data • Web Tools</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/arnav2722/">LinkedIn</a> •
-  <a href="https://github.com/arnav2722">GitHub</a> •
-  <a href="https://leetcode.com/arnav2722">LeetCode</a>
+  <a href="https://github.com/Aryan4505">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan4505&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aryan4505&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan4505&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=aryan4505&theme=react-dark" />
+</a>
+</p>
+	
+<p  align="center">
+<img src="/assets/line.gif">             
 </p>
 
----
+<!-- TODO: Update Repos -->
 
-## 👨‍💻 About Me
+## 📕 Pinned Repositories
 
-Python-focused software developer with hands-on experience building automation systems, data-driven tools, and full-stack web applications.
+<div align="center">
+<a href="https://github.com/aryan4505/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryan4505&repo=keylogger&show_icons=true&theme=tokyonight" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/aryan4505/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryan4505&repo=CyberSecurity-Tools&show_icons=true&theme=tokyonight" />
+</a><br/>
+<a href="https://github.com/aryan4505/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryan4505&repo=phishing&show_icons=true&theme=tokyonight" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/aryan4505/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryan4505&repo=All-In-One-Python-Projects&show_icons=true&theme=tokyonight" />
+</a><br/>
+</div>
 
-Strong interest in:
-- Backend engineering
-- Internal tooling & automation
-- Data analysis and visualization
-- Scalable Python systems
+<p  align="center">
+<img src="/assets/line.gif">
+</p>
 
-I care about writing clean, maintainable code that actually solves problems.
-
----
-
-## 🚀 Featured Project
-
-### Multi-Disease Risk Assessment System (Flask + ML)
-
-A web-based medical risk prediction platform using structured health data and image inputs.
-
-**What I built**
-- Flask backend with NumPy and serialized ML models
-- Automated preprocessing & prediction pipeline
-- HTML/CSS frontend for non-technical users
-- Model deployment & API integration
-
-**Achievement**
-- 🏆 Runner-up — Science Model Category
-  Science Exhibition 2024, CHRIST University
-
----
-
-## 💼 Experience
-
-### Software Developer Intern — Python (ML Projects)
-**DBlockchainers Pvt. Ltd.** | Jan 2025 – Jul 2025
-- Built ML pipelines and automation scripts
-- Worked on production-grade Python systems
-- Implemented data preprocessing & model integration
-
-### Web Development Intern
-**Zion Computers Pvt. Ltd.** | May 2023 – Jul 2024
-- Developed responsive websites
-- Built backend integrations
-- Worked on deployment and maintenance
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-- Python
-- C++
-- SQL
-- HTML, CSS
-
-### Frameworks & Tools
-- Flask
-- Pandas
-- NumPy
-- Matplotlib
-- Firebase
-- Git
-- Linux
-
-### Domains
-- Backend Development
-- Automation
-- Data Analysis
-- Machine Learning Integration
-
----
-
-## 📚 Problem Solving
-
-- Active on LeetCode
-- Focused on Data Structures & Algorithms
-- Strong fundamentals in Python and C++
-
-Profile: https://leetcode.com/arnav2722
-
----
-
-## 🎯 What I'm Looking For
-
-- Python Developer roles
-- Backend Engineering roles
-- Automation / Internal Tools roles
-- Data Engineering / Analytics roles
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/arnav2722
-- GitHub: https://github.com/arnav2722
-
----
+## 🏆 GitHub Trophy:
 
 <p align="center">
-  <img src="/assets/snake.svg" />
-</p> -->
+<a href="https://github.com/aryan4505/">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aryan4505&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
