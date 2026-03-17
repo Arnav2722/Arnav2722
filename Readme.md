@@ -88,25 +88,17 @@ A Python Flask application for multi-disease risk assessment using structured da
 
 ---
 
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/arnav2722">
-    <img width="40%" src="https://leetcode.card.workers.dev/arnav2722?theme=dark&font=baloo&border=2&border_radius=8">
-  </a>
-</p>
-
 # 📈 Statistics 📈
 
 <!-- <p align="center">
 	<img src="/assets/statistics.png" alt="Banner"></p> -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav2722&theme=algolia&layout=compact"/>
-<a href="https://leetcode.com/aryan4505">
-<img width="40%" src="https://leetcode.card.workers.dev/aryan4505?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+<a href="https://leetcode.com/arnav2722">
+  <img width="40%" src="https://leetcode.card.workers.dev/aryan4505?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
 </a>
 </p> 
-
+<!--
 
 <p align="center">
   <a href="https://github.com/arnav2722">
