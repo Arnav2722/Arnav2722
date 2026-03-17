@@ -98,23 +98,22 @@ A Python Flask application for multi-disease risk assessment using structured da
 
 # 📈 Statistics 📈
 
-<p align="center">
-	<img src="/assets/statistics.png" alt="Banner"></p>
+<!-- <p align="center">
+	<img src="/assets/statistics.png" alt="Banner"></p> -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav2722&theme=algolia&layout=compact"/>
-</p> 
-<p align="center">
 <a href="https://leetcode.com/aryan4505">
 <img width="40%" src="https://leetcode.card.workers.dev/aryan4505?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
 </a>
-</p>
+</p> 
+
 
 <p align="center">
   <a href="https://github.com/arnav2722">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnav2722&theme=github_dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnav2722&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=arnav2722&theme=react-dark" />
+    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=arnav2722&theme=react-dark" /> -->
 </a>
 </p>
 	
