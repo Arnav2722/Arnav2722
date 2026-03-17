@@ -98,7 +98,6 @@ A Python Flask application for multi-disease risk assessment using structured da
   <img width="40%" src="https://leetcode.card.workers.dev/aryan4505?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
 </a>
 </p> 
-<!--
 
 <p align="center">
   <a href="https://github.com/arnav2722">
