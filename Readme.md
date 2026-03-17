@@ -96,14 +96,12 @@ A Python Flask application for multi-disease risk assessment using structured da
   </a>
 </p>
 
-
 # 📈 Statistics 📈
 
 <p align="center">
 	<img src="/assets/statistics.png" alt="Banner"></p>
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan4505&theme=algolia&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav2722&theme=algolia&layout=compact"/>
 </p> 
 <p align="center">
 <a href="https://leetcode.com/aryan4505">
@@ -112,11 +110,11 @@ A Python Flask application for multi-disease risk assessment using structured da
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aryan4505">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan4505&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=aryan4505&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan4505&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=aryan4505&theme=react-dark" />
+  <a href="https://github.com/arnav2722">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnav2722&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arnav2722&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnav2722&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=arnav2722&theme=react-dark" />
 </a>
 </p>
 	
@@ -150,7 +148,7 @@ A Python Flask application for multi-disease risk assessment using structured da
 ## 🏆 GitHub Trophy:
 
 <p align="center">
-<a href="https://github.com/aryan4505/">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aryan4505&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+<a href="https://github.com/arnav2722/">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=arnav2722&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
